@@ -1,6 +1,4 @@
 ---
-title: a list of (almost) everything i enjoyed in 2020
-
 ### things that brought me joy
 
 happy solstice, and welcome to a collection of lists of things i enjoyed this year. not all of them were created or released this year, but they are all things that i enjoyed in 2020. some things i explain a bit, maybe throw a blurb or a riyl at ya, some i don't. it's *my* newsletter! 

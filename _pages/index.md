@@ -11,5 +11,5 @@ this page is a collection of my thoughts on a variety of topics, including, but 
 
 an important note, however: i am *not* an expert in any of this! any document found here should be treated as living, and representative of where i'm currently at. if you disagree, please get in [touch](/about)! hopefully at least one of us will learn something. i'll do my best to cite my sources, but because this is mostly for my own benefit, i won't be super strict. please do not try to cite *me* as a source on anything.
 
-my first note is [here](/notes/enjoyedlists_2020)
+my first note is [here](/enjoyedlists_2020)
 
